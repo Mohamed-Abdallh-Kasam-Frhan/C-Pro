@@ -1,0 +1,9 @@
+﻿ىبيت|ؤن|ؤم|ؤة|ؤ|male
+ىبيت|ؤن|ؤم|ؤة|ؤ|male
+ىبيت|ؤن|ؤم|ؤة|ؤ|male
+ؤ|||||NOT Specified
+ء|||||NOT Specified
+ء|||||NOT Specified
+1|5|5|4|6|male
+1|5|5|4|6|Female
+|||||Female
